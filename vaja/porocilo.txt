@@ -1,2 +1,3 @@
 1. Vse datoteke so bile statusa "untracked"
 2. Vse datoteke so bile statusa "modified"
+3. Status datoteke tmp.txt je bil "missing"
