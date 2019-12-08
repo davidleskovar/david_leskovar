@@ -1,1 +1,2 @@
 1. Vse datoteke so bile statusa "untracked"
+2. Vse datoteke so bile statusa "modified"
