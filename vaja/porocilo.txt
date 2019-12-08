@@ -1,0 +1,1 @@
+1. Vse datoteke so bile statusa "untracked"
